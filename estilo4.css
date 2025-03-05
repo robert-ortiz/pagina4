@@ -21,19 +21,19 @@ body {
 #aside-left{
     grid-column: 1 / 2;
     padding: 15px;
-    background-color:rgb(105, 46, 11);
+    background-color:rgb(126, 46, 11);
     color: white;
 }
 #aside-right{
     grid-column: 3 / 4;
     padding: 15px;
-    background-color: rgb(221, 159, 123);
+    background-color: rgb(126, 75, 46);
     color: white;
 }
 #main{
     grid-column: 2 / 3;
     padding: 15px;
-    background-color: rgb(185, 166, 101);
+    background-color: rgb(100, 79, 7);
     color: rgb(199, 102, 102);
 }
 #footer{
